@@ -2,7 +2,7 @@
 
 <br>
 
-## Welcome to My Scanner Project! You can use your webcam or a image to scan special characters, letters and numbers!:
+## Welcome to my scanner project! You can use your webcam or a image to scan special characters, letters and numbers!:
 
 <br>
 <p>It was suppost to me use this project in my company project to help some workers to scan serial codes to complete a form more faster because the 

@@ -43,6 +43,13 @@
 ![pytesseract](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/06e7ff29-1938-4acb-acb2-957344b88094)
 
  <br>
+   <h2>Open the project file at VSCode</h2>
+   <br>
+
+   <p>Now all you need is use webcam and point the item to be readen by the scanner and execute the program</p>
+
+![image](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/e2fc0f13-df1d-4026-8500-de5f29e883f5)
+
  
  ## 🐱‍👤 Do you liked? please fallow me at -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
  ## 🌟 Please support me starring this project repositorie 🌟

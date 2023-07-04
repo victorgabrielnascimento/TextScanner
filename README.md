@@ -2,18 +2,21 @@
 
 <br>
 
-## Welcome to My Scanner Project! You can use your webcam or a image to scan special characters, letters and numbers!: 
+## Welcome to My Scanner Project! You can use your webcam or a image to scan special characters, letters and numbers!:
+
 <br>
 <p>It was suppost to me use this project in my company project to help some workers to scan serial codes to complete a form more faster because the 
   equipament that they need to registrate have ramdon numbers, letters and special characters, so after a lot of duscution and search, I fond this method at web, hope you guys enjooy it!</p>
 
-##  Prerequisites:
- - Before start the teste, you will need this tools: 
-    - ✔️ [VsCode](https://code.visualstudio.com/download);
-    - ✔️ Python package (https://www.python.org/downloads/);
- 
+## Prerequisites:
+
+- Before start the teste, you will need this tools:
+  - ✔️ [VsCode](https://code.visualstudio.com/download);
+  - ✔️ Python package (https://www.python.org/downloads/);
+
 ## 📄 Instructions:
- -Create a fork to your rep, or download the file and open it in your vscode
+
+-Create a fork to your rep, or download the file and open it in your vscode
 
  <h3>To fork click here:</h3>
  
@@ -21,7 +24,7 @@
 
   <h3>To download click here:</h3>
 
-  ![down](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/45d4211f-dc59-4e12-a205-7a64fa1e3816)
+![down](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/45d4211f-dc59-4e12-a205-7a64fa1e3816)
 
  <h2>Now you will need to install the pendences, so fallow the steps<h2>
  <br>
@@ -44,4 +47,3 @@
  ## 🐱‍👤 Do you liked? please fallow me at -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
  ## 🌟 Please support me starring this project repositorie 🌟
  ## 📚 See more projects that I developed-> [[Repositories]](https://github.com/victorgabrielnascimento?tab=repositories)
-

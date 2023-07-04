@@ -1,22 +1,16 @@
 import cv2
 from PIL import Image
-from pytesseract import pytesseract 
+import pytesseract
+from pyzbar import pyzbar
 
-camera=cv2.VideoCapture(0)
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+
+camera = cv2.VideoCapture(0)
 
 while True:
-    _,image=camera.read()
-    cv2.imshow('Text detection',image)
-    if cv2.waitKey(1)& 0xFF==ord('s'):
-        cv2.imwrite('test1.jpg', image)
-        break
-camera.release()
-cv2.destroyAllWindows()
+    ret, image = camera.read()
+    cv2.imshow('Scanner', image);
 
-def tesseract():
-    path_to_tesseract = r'"C:\Program Files\Tesseract-OCR\tesseract.exe"'
-    image_path = "test1.jpg"
-    pytesseract.tesseract_cmd = path_to_tesseract
-    text = pytesseract.image_to_string(Image.open(image_path))
-    print(text)
-tesseract()
+    serialNumber = pytesseract.image_to_string(image)
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break

@@ -11,8 +11,8 @@
 ## Prerequisites:
 
 - Before start the teste, you will need this tools:
-  - ✔️ [VsCode](https://code.visualstudio.com/download);
-  - ✔️ Python package (https://www.python.org/downloads/);
+  - ✔️ [VsCode] (https://code.visualstudio.com/download);
+  - ✔️ [Python package] (https://www.python.org/downloads/);
 
 ## 📄 Instructions:
 

@@ -22,7 +22,7 @@
  
   ![fork](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/dad949c9-3e0a-40b0-a4bd-361f969abd4d)
 
-  <h3>To download click here:</h3>
+<h3>To download click here:</h3>
 
 ![down](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/45d4211f-dc59-4e12-a205-7a64fa1e3816)
 
